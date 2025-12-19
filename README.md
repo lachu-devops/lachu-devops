@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @lachu-devops
-- 👀 I’m interested in Software devloping and Networking
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m Lakshmanan 
+- 👀 I’m interested in Software devloping
+- 🌱 I’m currently learning C++ 
 - 💞️ I’m looking to collaborate on devloping
 - 📫 How to reach me lakshmanan6765 @instagram
 
